@@ -8,4 +8,9 @@ Comportamentos esperados:
 - Repodutor Musicial: tocar, pausar, selecionarMusica
 - Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 - Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+
+#Diagrama UML
+
+![Screenshot from 2023-12-20 16-21-21](https://github.com/pedrofrs/Classes-Iphones/assets/89699148/09304e64-34f0-417f-b929-5c2f4add8fa3)
+
  
